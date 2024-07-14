@@ -1,4 +1,4 @@
-import logo from "./logo.jpg";
+import logo from "./logo.png";
 import heroImg from "./heroImg.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
