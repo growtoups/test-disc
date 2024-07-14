@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      DiscreetShare, <br className="sm:block hidden" /> Your Files Anonymously.
+      DiscreetShare <br className="sm:block hidden" /> Your Files Anonymously.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Upload your files anonymously and free with DiscreetShare.<br />
