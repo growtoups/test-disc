@@ -20,14 +20,14 @@
            }
     ],
         "share_target": {
-    "action": "https://api.discreetshare.com/upload",
+    "action": "https://up.discreetshare.com/upload",
     "method": "POST",
     "enctype": "multipart/form-data",
     "params": {
       "files": [
         {
           "name": "mediaFiles",
-          "accept": ["image/*", "video/*", "audio/*", ".doc", ".pdf", ".txt"]
+          "accept": ["*/*"]
         }
       ]
     }
